@@ -25,6 +25,6 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Hair-Salon:** https://github.com/NAEEMGHADAI/Hair-Salon
 
-**ShareEazy:** https://github.com/NAEEMGHADAI/ShareEazy
+**ShareEazy:** https://github.com/Salik47/ShareEazy
 
 **Cheap-Oxford:** https://github.com/NAEEMGHADAI/cheap-oxford
